@@ -1,0 +1,38 @@
+{
+  "name": "ANDRIKKUSNIAWAN",
+  "short_name": "IKONANDRIK",
+  "start_url": "https://www.andrikkusniawan.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Information sharing and learning",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s48/Faviconandrikkusniawan.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s72/Faviconandrikkusniawan.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s96/Faviconandrikkusniawan.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s44/Faviconandrikkusniawan.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s168/Faviconandrikkusniawan.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s192/Faviconandrikkusniawan.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nLYBwE-oR4w/XaiUgYTAreI/AAAAAAAABAc/b1HEMXOLhAckCcu92f3BxHPAg4o7_R3jQCLcBGAsYHQ/s512/Faviconandrikkusniawan.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
